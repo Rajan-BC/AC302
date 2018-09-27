@@ -1,0 +1,53 @@
+body{
+	text-align:center;
+}
+h1{color:blue;}
+img{width:150px}
+#NBA {
+	width:500px;
+	height:150px;
+	border: 1px solid red;
+	background-color:blue;
+
+}
+#NBA-Content{
+	background-color:red;
+	height:100px;
+	width: 300px;
+	border: magenta 2px solid;
+	float:left;
+}
+#Youtube {
+	width:500px;
+	height:150px;
+	border: 1px solid red;
+	background-color:blue;
+}
+#Youtube-Content{
+	background-color:red;
+	height:100px;
+	width: 300px;
+	border: magenta 2px solid;
+	float:left;
+	
+	}
+#Teamie {
+	width:500px;
+	height:150px;
+	border: 1px solid red;
+	background-color:blue;
+
+}
+#Teamie-Content{
+	background-color:red;
+	height:100px;
+	width: 300px;
+	border: magenta 2px solid;
+	background-color:red;
+	float:left;
+	}
+
+img{
+	height:100px
+	width:100px;
+}
